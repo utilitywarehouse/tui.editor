@@ -20,7 +20,7 @@ jobs:
     uses: ClearTax/reusable-workflows/.github/workflows/publish-js-package.yml@main
     with:
       branch: ${{ github.event.workflow_run.head_branch }}
-      node-version: '16.20.2'
+      node-version: '18.20.4'
     secrets:
       token: ${{ secrets.CLEARCI_TOKEN}}
       github-token: ${{ secrets.CLEARCI_AUTH_TOKEN }}
