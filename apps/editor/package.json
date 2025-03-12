@@ -1,5 +1,5 @@
 {
-  "name": "@cleartax/toast-ui-editor",
+  "name": "@utilitywarehouse/editor",
   "version": "3.2.4",
   "description": "GFM  Markdown Wysiwyg Editor - Productive and Extensible",
   "keywords": [
@@ -52,11 +52,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ClearTax/tui.editor.git",
+    "url": "https://github.com/utilitywarehouse/tui.editor.git",
     "directory": "apps/editor"
   },
   "bugs": {
-    "url": "https://github.com/ClearTax/tui.editor/issues"
+    "url": "https://github.com/utilitywarehouse/tui.editor/issues"
   },
   "homepage": "https://ui.toast.com",
   "browserslist": "last 2 versions, not ie <= 10",
